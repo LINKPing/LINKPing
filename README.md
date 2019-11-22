@@ -22,12 +22,14 @@ We got a pdf from the landlord, which was enlarged and imported into AutoCAD (th
 
 This will most definitely change but we decided on some additional requirements that should be fulfilled:
 
-* there should be an area where you can sit and talk, e.g. some a couple of sofas/chairs and a table
+* there should be an area where you can sit and talk, e.g. a couple of sofas/chairs and a table
 * the entrance should have a hallway where you can put your shoes and clothes
-* there should be storage for things like cleaning material, vacuum cleaner etc
+* there should be storage for things like cleaning materials, vacuum cleaner etc
 * there should be plenty of shelves for storing projects and materials
 * there should be several work places with a separate shelf on the wall
 * there should be a larger table where several people can sit together
+* there should be a video system with a white screen and a projector
+* there should be an audio system
 
 ## Economics
 
