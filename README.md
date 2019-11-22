@@ -16,7 +16,7 @@ Finding a place might be difficult, depending on where you live. The more requir
 * it should be affordable (obviously depends on your budget)
 * it should be large enough but not too big either (depends on your preferences)
 
-A rough layout of the space can be seen [here](layout.png). We got a pdf from the landlord, which was enlarged and imported into AutoCAD. This is the result of the original design from paper.
+A rough layout of the space can be seen [here](layout.png). We got a pdf from the landlord, which was enlarged and imported into AutoCAD (thank you [`@gorhgorh`](https://github.com/gorhgorh) and zhi!). This is the result of the original design from paper.
 
 This design will most definitely change, but we dicided on some additional requirements that should be fulfilled:
 
