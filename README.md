@@ -20,7 +20,7 @@ We got a pdf from the landlord, which was enlarged and imported into AutoCAD (th
 
 ![Layout](layout.png)
 
-This design will most definitely change, but we dicided on some additional requirements that should be fulfilled:
+This will most definitely change but we decided on some additional requirements that should be fulfilled:
 
 * there should be an area where you can sit and talk, e.g. some a couple of sofas/chairs and a table
 * the entrance should have a hallway where you can put your shoes and clothes
