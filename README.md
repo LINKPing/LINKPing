@@ -2,11 +2,11 @@
 
 > Design and implementation of a hackerspace in Linköping, Sweden.
 
-## goals
+## Goals
 
 Build a place where likeminded people can hang out, hack on different things and learn from each other.
 
-## layout
+## Layout
 
 Finding a place might be difficult, depending on where you live. The more requirements you have the harder it will get. We decided on the following requirements to use when searching for the place:
 
@@ -27,16 +27,22 @@ This design will most definitely change, but we dicided on some additional requi
 * there should be several work places with a separate shelf on the wall
 * there should be a larger table where several people can sit together
 
-## economics
+## Economics
 
 A boring but unfortunately necessary subject to discuss and keep track of.
 
-### variable costs
+### Variable costs
 
 * rent: 28800 SEK/year (excluding VAT)
 * electricity: currently no contract and currently unknown
 * internet: currently no contract and currently unknown
 
-### fixed costs
+### Fixed costs
 
 There might be a fixed cost in getting internet set up at all. Currently awaiting information from the land lord. If it's not a big cost, they will pay for it.
+
+## License
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+
+All content submitted to this project is licensed under a [`Creative Commons Attribution-ShareAlike 4.0 International License`](https://creativecommons.org/licenses/by-sa/4.0/)
