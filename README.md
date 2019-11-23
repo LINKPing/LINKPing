@@ -43,7 +43,7 @@ A boring but unfortunately necessary subject to discuss and keep track of.
 
 ### Fixed costs
 
-There might be a fixed cost in getting internet set up at all. Currently awaiting information from the land lord. If it's not a big cost, they will pay for it.
+There might be a fixed cost in getting internet set up at all. Currently awaiting information from the landlord. If it's not a big cost, they will pay for it.
 
 ## License
 
