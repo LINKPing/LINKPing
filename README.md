@@ -18,7 +18,7 @@ Finding a place might be difficult, depending on where you live. The more requir
 
 We got a pdf from the landlord, which was enlarged and imported into AutoCAD (thank you [`@gorhgorh`](https://github.com/gorhgorh) and zhi!). This is the result of the original design from paper.
 
-![Layout](layout.png)
+![Layout](images/layout.png)
 
 This will most definitely change but we decided on some additional requirements that should be fulfilled:
 
