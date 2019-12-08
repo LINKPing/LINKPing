@@ -1,4 +1,4 @@
-# h-space
+# LinkPing
 
 > Design and implementation of a hackerspace in Linköping, Sweden.
 
