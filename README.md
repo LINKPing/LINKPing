@@ -31,19 +31,11 @@ This will most definitely change but we decided on some additional requirements 
 * there should be a video system with a white screen and a projector
 * there should be an audio system
 
-## Economics
-
-A boring but unfortunately necessary subject to discuss and keep track of.
-
-### Variable costs
+## Costs
 
 * rent: 28800 SEK/year (excluding VAT)
-* electricity: currently no contract and currently unknown
+* electricity: contract done, lets wait for first bill to see cost estimate
 * internet: currently no contract and currently unknown
-
-### Fixed costs
-
-There might be a fixed cost in getting internet set up at all. Currently awaiting information from the landlord. If it's not a big cost, they will pay for it.
 
 ## License
 
