@@ -37,6 +37,17 @@ This will most definitely change but we decided on some additional requirements 
 * electricity: contract done, lets wait for first bill to see cost estimate
 * internet: currently no contract and currently unknown
 
+## Values
+
+* we are a non political, non profit and members owned organization
+* we strongly distance ourselves from any kind of rasism, sexism and homophobia
+* we value freedom, creativity and cross disciplinary collaboration
+* we know the original meaning of the term "hacker" and "hacking"
+* we are not scared to use the term hackerspace, hacklab etc
+* we use and promote free software and decentralized technologies
+* we focus primarily on software and electronics but members decide
+* we try to stay away from centralized silos like Facebook et.al.
+
 ## License
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
