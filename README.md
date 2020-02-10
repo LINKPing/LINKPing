@@ -34,8 +34,8 @@ This will most definitely change but we decided on some additional requirements 
 ## Costs
 
 * rent: 28800 SEK/year (excluding VAT)
-* electricity: contract done, lets wait for first bill to see cost estimate
-* internet: currently no contract and currently unknown
+* electricity: 200 SEK/month
+* internet: N/A
 
 ## Values
 
