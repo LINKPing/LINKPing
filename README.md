@@ -48,6 +48,10 @@ This will most definitely change but we decided on some additional requirements 
 * we focus primarily on software and electronics but members decide
 * we try to stay away from centralized silos like Facebook et.al.
 
+## Contact
+
+If you want to get in touch, you can find us in `#linkping` channel on `irc.xinutec.net:6697`.
+
 ## License
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
