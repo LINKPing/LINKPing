@@ -1,5 +1,3 @@
-# LINKPing
-
 > Design and implementation of a hackerspace in Linköping, Sweden.
 
 ## Goals
