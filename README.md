@@ -48,7 +48,7 @@ This will most definitely change but we decided on some additional requirements 
 
 ## Contact
 
-If you want to get in touch, you can find us in `#linkping` channel on `irc.xinutec.net:6697`.
+If you want to get in touch, you can find us in `#linkping` channel on Freenode.
 
 ## License
 
