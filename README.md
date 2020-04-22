@@ -29,6 +29,8 @@ This will most definitely change but we decided on some additional requirements 
 * there should be a video system with a white screen and a projector
 * there should be an audio system
 
+Build up pictures: https://cloud.weho.st/index.php/s/rDw3TefQTZatsm9
+
 ## Costs
 
 * rent: 28800 SEK/year (excluding VAT)
