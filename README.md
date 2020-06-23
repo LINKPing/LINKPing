@@ -35,7 +35,7 @@ Build up pictures: https://cloud.weho.st/index.php/s/rDw3TefQTZatsm9
 
 * rent: 28800 SEK/year (excluding VAT)
 * electricity: 200 SEK/month
-* internet: N/A
+* internet: 200 Mbit, 299 SEK/month the first 12 months and later 399
 
 ## Values
 
