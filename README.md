@@ -45,8 +45,6 @@ Build up pictures: https://cloud.weho.st/index.php/s/rDw3TefQTZatsm9
 * we know the original meaning of the term "hacker" and "hacking"
 * we are not scared to use the term hackerspace, hacklab etc
 * we use and promote free software and decentralized technologies
-* we focus primarily on software and electronics but members decide
-* we try to stay away from centralized silos like Facebook et.al.
 
 ## Contact
 
